@@ -1,0 +1,31 @@
+Date of Git Tutorial: 10/5/2020
+Date of GitHub setup: About October of 2019
+
+1. Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (7/7), 722 bytes | 722.00 KiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To https://github.com/selarommada/assignment2.git
+   f4975e5..c2b510e  master -> master
+
+2. 8 commits. I used "git log" to find this information
+
+3.  Oct 7 at 1:13 pm. Used "git log" to find this information
+
+4. a. Makes it harder for unstable code to get mixed up in the main code base
+   b. Gives you a chance to clean up the future's history before merging it into the main branch
+
+5. "git log" show the commit log and "git status" shows the orking tree status
+
+6. git log  Vehicle.h
+
+7. git log -i --grep="file"
+
+8. Inheritance is a mechanism in which one class acquires the property of another class. Polymorphism is an object's ability to tke on many different forms. Encapsulation is a concept that binds the data and functions that manipulate the data.
+
+9. In the "Integration Manager" workflow, the centralized repository fully accessable to everyone on the team and the manger maintains it. In the "Dictator and Lietenant" workflow, all the developers(lietenants) can pull from the repository, but only the manager(dicator) can push on to the repository.
+
+10. It would decrease the amount of mistakes and inconsistencies in repository, because only one person would beable to push changes into the repository.
